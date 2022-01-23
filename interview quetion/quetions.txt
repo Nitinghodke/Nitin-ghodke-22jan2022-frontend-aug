@@ -9,3 +9,13 @@
 
  Is padding included in the element? What types of selectors are used in CSS?
 
+Difference between null and undefined?
+
+ What are promises ? 
+
+What is Async await? 
+
+Javascript is single threaded or multiple threaded and asynchronous or synchronous? 
+
+How to center the div tag on dom? What are callback functions?
+
