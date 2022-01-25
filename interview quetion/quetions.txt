@@ -19,3 +19,11 @@ Javascript is single threaded or multiple threaded and asynchronous or syn
 
 How to center the div tag on dom? What are callback functions?
 
+What are callback functions?
+
+What is Closure how do we implement closure?
+
+What is Debouncing and throttling ?
+
+Prototype in javascript with example.
+
