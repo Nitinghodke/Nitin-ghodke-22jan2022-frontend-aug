@@ -1,29 +1,56 @@
+Interview Question 22-JAN-2022
+What are block elements? 
+What were the new tags/elements brought in HTML5? 
+Have you used PreCSS? What is it? 
+What is the difference between Margin and padding? 
+Is padding included in the element? 
+What types of selectors are used in CSS? 
 
- What are block elements?
+23-JAN-2022
 
- What were the new tags/elements brought in HTML5? 
-
- Have you used PreCSS? What is it?
-
- What is the difference between Margin and padding? 
-
- Is padding included in the element? What types of selectors are used in CSS?
-
-Difference between null and undefined?
-
- What are promises ? 
-
+Difference between null and undefined? 
+What are promises ? 
 What is Async await? 
-
 Javascript is single threaded or multiple threaded and asynchronous or synchronous? 
+How to center the div tag on dom? 
+What are callback functions? 
 
-How to center the div tag on dom? What are callback functions?
+24-JAN-2022
 
-What are callback functions?
+What are the available values for property "position"? 
+What happens when you use each value? 
+How can I show two div tag elements side by side? 
+Explain the term responsive web design? 
+What is css flexbox? 
+What is CSS opacity? 
+When click on button u need to scroll to the particular div using HTML 
+
+25 -JAN-2022
 
 What is Closure how do we implement closure?
-
 What is Debouncing and throttling ?
-
+Difference between == and ===
+Tell me about Promises?
 Prototype in javascript with example.
+Event loop.
+
+27 - JAN - 2022
+What is the use of filter, map, reduce ?
+Difference between map and for loop 
+Difference between slice and splice
+Difference between Standard function and Arrow Function
+What is ES6?  
+Oops concept
+How can you achieve a class feature before ES6?
+
+
+02 Feb,2022
+
+1.Hoisting in JS
+2.Closures
+3.Callbacks and Callback function
+4.Spread operator & more examples on it
+5. Difference between == and ===
+
+
 
